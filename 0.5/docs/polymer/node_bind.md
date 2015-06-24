@@ -16,7 +16,7 @@ feature:
 
 ### Why Node.bind()?
 
-`Node.bind()` is a new method added to all DOM nodes which instructs them to bind the named
+`Node.bind()` is a newsssss method added to all DOM nodes which instructs them to bind the named
 property to the data provided. These allows applications to create a data model
 in JavaScript that DOM reacts to.
 
